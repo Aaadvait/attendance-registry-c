@@ -1,7 +1,7 @@
 # attendance-registry-c<br>
 CLI-based attendance registry system built in C
 
-This was originally supposed to be a basic CLI-based attendance registry done using simple file handling, before it evolved into its current form.<br>
+This was originally supposed to be a basic CLI-based attendance registry mini-project done using simple file handling, before it evolved into its current form.<br>
 At present, its running on a small data storage system using files, with basic error correction integrated into it.
 
 Currently it contains :-
