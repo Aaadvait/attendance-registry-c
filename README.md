@@ -36,4 +36,4 @@ Date files to store a day's attendance are created as per requirement.
 Date file names are stored in YYYYMMDD.dat format in metadata
 
 NOTE: 
-01. Example Files can be used by copying them from example folder to folder where main_win.exe is stored.
+Example Files can be used by copying them from example folder to folder where main_win.exe is stored.
