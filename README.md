@@ -33,3 +33,5 @@ b. student.dat
 c. exclusino.dat
 
 Date files to store a day's attendance are created as per requirement.
+
+NOTE: Example Files can be used by copying them from example folder to folder where main_win.exe is stored.
